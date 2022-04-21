@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JVersionManager:jar">
+    <output-path>$PROJECT_DIR$/builds</output-path>
+    <root id="archive" name="JVersionManager.jar">
+      <element id="module-output" name="JVersionManager" />
+    </root>
+  </artifact>
+</component>
